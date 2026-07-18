@@ -33,7 +33,7 @@ assets:
   - {seq: 0, filename: KR6j0301_000.yaml, hash: 'sha256:5187572b5c177fbe0217480b963ca1df2528806fcfcfc25a160e19ba74bea24c'}
   - {seq: 1, filename: KR6j0301_001.yaml, hash: 'sha256:f6913d15f73f35690981d614335578ccd690fa4bd78289a74e8773ec0946d828'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6j0301_000.markers.yaml, hash: 'sha256:033de456e46589c2469948bb793c64e200a6929acec95175b49264d3bd5cddcc'}
+  - {seq: 0, role: markers, filename: assets/KR6j0301_000.markers.yaml, hash: 'sha256:06ff1c893fc167aad0590a0c504f8757e9480dd423d0de248e632199e660ada8'}
   - {seq: 1, role: markers, filename: assets/KR6j0301_001.markers.yaml, hash: 'sha256:b48990fadf4b37a72d3f081e818b86d567629f7383f521a9d1560aac738028d1'}
 table_of_contents:
 - ref:
@@ -46,7 +46,7 @@ table_of_contents:
   label: 不空羂索呪經
   type: juan
   level: 1
-hash: sha256:a45c70527e4b16b88224a6ae073352dd64dad1cb18977fd9b92fb21783a1fa3c
+hash: sha256:3442c89133621036cb8130a3917625516ce3167d832fcf51eefecba805ff73db
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
